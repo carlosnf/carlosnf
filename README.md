@@ -14,3 +14,4 @@
 - 📫  Como puedes contactar conmigo cnavarro200746@gmail.com
 
 <!---->
+[![Carlos Navarro GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosnf)](https://github.com/anuraghazra/github-readme-stats)
