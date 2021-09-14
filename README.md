@@ -16,4 +16,4 @@
 <!---->
 [![Carlos Navarro GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosnf)](https://github.com/carlosnf/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosnf&layout=compact)](https://github.com/carlosnfa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosnf&layout=compact)](https://github.com/carlosnf/github-readme-stats)
