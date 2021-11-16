@@ -5,9 +5,9 @@
 
 
 
-- 🔭 Estoy trabajando en  ...
+- 🔭 
 
-- 🌱 Estoy aprendiendo ...
+- 🌱 
  
 - 👯 Estoy buscando colaboraciones en cualquier proyecto para aprender.
 
