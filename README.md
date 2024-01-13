@@ -5,12 +5,6 @@
 
 
 
-- 🔭 
-
-- 🌱 
- 
-- 👯 Estoy buscando colaboraciones en cualquier proyecto para aprender.
-
 - 📫  Como puedes contactar conmigo cnavarro200746@gmail.com
 
 <!---->
