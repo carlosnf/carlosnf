@@ -11,11 +11,11 @@
 <h1 align="center">Hi 👋, I'm Carlos </h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **Git**
+- I’m currently learning **Git**
 
-- 💬 Ask me about **live**
+- Ask me about **live**
 
-- 📫 How to reach me **cnavarro200746@gmail.com**
+- How to reach me **cnavarro200746@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
