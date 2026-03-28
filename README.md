@@ -3,7 +3,8 @@
 
 - 🔭 I'm currently working on improving my frontend skills
 - 🌱 I'm currently learning **HTML, CSS, PHP & MySQL**
-- 📫 Reach me on <a href="https://www.linkedin.com/in/carlos-n-4b2205302/">LinkedIn</a>
+- 📫 Reach me on <a href="https://www.linkedin.com/in/carlos-n-4b2205302/" target="_blank">LinkedIn</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
