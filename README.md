@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on improving my frontend skills
 - 🌱 I'm currently learning **HTML, CSS, PHP & MySQL**
-- 📫 Reach me at **cnavarro200746@gmail.com**
+- 📫 Reach me on <a href="https://www.linkedin.com/in/carlos-n-4b2205302/">LinkedIn</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
